@@ -1,4 +1,8 @@
 test staging area edits
 adding a line
+<<<<<<< Updated upstream
 
 adding a third line in github
+=======
+second line in working dir
+>>>>>>> Stashed changes
