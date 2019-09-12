@@ -6,3 +6,5 @@ adding a third line in github
 =======
 second line in working dir
 >>>>>>> Stashed changes
+adding a fourth line
+
